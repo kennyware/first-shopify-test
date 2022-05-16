@@ -1,7 +1,7 @@
 [
   {
-    "name": "first-test-theme-project",
-    "theme_name": "Dawn",
+    "name": "theme_info",
+    "theme_name": "first-test-theme-project",
     "theme_version": "5.0.0",
     "theme_author": "Shopify",
     "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
